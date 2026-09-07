@@ -1,0 +1,6 @@
+@Conexão_web_HostAddress = http://localhost:5012
+
+GET {{Conexão_web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
